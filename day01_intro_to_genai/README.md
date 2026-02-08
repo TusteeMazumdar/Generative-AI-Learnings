@@ -50,7 +50,7 @@ It learns patterns from existing data and generates new outputs that mimic human
 
 Click below to view the handwritten notes:
 
-[📄 View Class 1 Notes](class1.pdf)
+[📄 View Class 1 Notes](Class%201.pdf))
 
 
 ## Acknowledgment
