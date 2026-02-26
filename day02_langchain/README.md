@@ -61,8 +61,7 @@ LangChain manages these steps efficiently.
 ---
 
 ## Handwritten Notes
-
-📄 [View Handwritten Notes](langchain.pdf)
+📄 [View Handwritten Notes](Langchain_.pdf)
 
 ## Learning Source
 
